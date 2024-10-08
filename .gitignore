@@ -20,3 +20,4 @@
 Lib/
 .env
 *.json
+db.sqlite3
